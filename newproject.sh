@@ -7,6 +7,7 @@ opened in VS Code"
     exit 1
 fi
 
+cd
 cd Desktop/Projects
 mkdir $1
 cd $1
